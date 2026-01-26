@@ -1,0 +1,15 @@
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Application\bin\Debug\net10.0\BuberDinner.Application.deps.json
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Application\bin\Debug\net10.0\BuberDinner.Application.dll
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Application\bin\Debug\net10.0\BuberDinner.Application.pdb
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.AssemblyInfoInputs.cache
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.AssemblyInfo.cs
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.dll
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\refint\BuberDinner.Application.dll
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.pdb
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\ref\BuberDinner.Application.dll
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Application\bin\Debug\net10.0\BuberDinner.Domain.dll
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Application\bin\Debug\net10.0\BuberDinner.Domain.pdb
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.csproj.AssemblyReference.cache
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDin.E7CA8231.Up2Date
