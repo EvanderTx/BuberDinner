@@ -41,3 +41,4 @@ F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\Bub
 F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
 F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
 F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Api\obj\Debug\net10.0\BuberDinner.Api.sourcelink.json

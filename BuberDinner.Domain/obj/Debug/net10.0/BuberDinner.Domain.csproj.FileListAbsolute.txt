@@ -9,3 +9,4 @@ F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\Bub
 F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Domain\obj\Debug\net10.0\refint\BuberDinner.Domain.dll
 F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Domain\obj\Debug\net10.0\BuberDinner.Domain.pdb
 F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Domain\obj\Debug\net10.0\ref\BuberDinner.Domain.dll
+F:\MYSSD\Programming\Back-End\Csharp\clean-architecture-tutorial\BuberDinner\BuberDinner.Domain\obj\Debug\net10.0\BuberDinner.Domain.sourcelink.json
